@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to webhook";
+echo "Welcome to Test Git";
 ?>
