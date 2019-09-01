@@ -1,2 +1,4 @@
 note6
-node D1
+
+node D1 + F1 => D2
+
