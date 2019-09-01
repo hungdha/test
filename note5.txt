@@ -1,7 +1,3 @@
 note6
 
-node D
-node E
-node F
-node F1
-node F2
+node D1 + F1 => D2 + G => node H
