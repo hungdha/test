@@ -1,6 +1,4 @@
 note6
 
 node D1 + F1 => D2 + G => node H + D5 = K
-node D5
 using cherry pick
-
