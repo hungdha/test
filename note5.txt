@@ -1,2 +1,7 @@
 note6
+
+node D
+node E
 node F
+node F1
+node F2
